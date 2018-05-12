@@ -1,0 +1,25 @@
+_repo: The-First-Soprano_15467
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hitchcock, Mary
+    birthdate: 1865
+    gutenberg_agent_id: '6082'
+    url: http://www.gutenberg.org/2009/agents/6082
+description: ''
+gutenberg_issued: '2005-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15467'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian fiction, American'
+- !lcc 'PS'
+title: The First Soprano
+url: http://www.gutenberg.org/ebooks/15467
