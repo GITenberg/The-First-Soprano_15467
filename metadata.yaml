@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '6082'
     url: http://www.gutenberg.org/2009/agents/6082
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15467#The-First-Soprano
 gutenberg_issued: '2005-03-26'
 gutenberg_type: Text
 identifiers:
